@@ -70,6 +70,10 @@ static int xmp_getattr(const char *path, struct stat *stbuf) //path = filemiris.
 }
 ```
 
+![alt text](https://github.com/lutfiyanti/SoalShift_modul4_A08/blob/master/1.png)
+
+![alt text](https://github.com/lutfiyanti/SoalShift_modul4_A08/blob/master/1a.png)
+
 # Soal 3
 
 Sebelum diterapkannya file system ini, Atta pernah diserang oleh hacker LAPTOP_RUSAK yang menanamkan user bernama “chipset” dan “ic_controller” serta group “rusak” yang tidak bisa dihapus. Karena paranoid, Atta menerapkan aturan pada file system ini untuk menghapus “file bahaya” yang memiliki spesifikasi:
@@ -173,6 +177,8 @@ Jika ditemukan file dengan spesifikasi tersebut ketika membuka direktori, Atta a
 ```
 
 
+
+![alt text](https://github.com/lutfiyanti/SoalShift_modul4_A08/blob/master/3.png)
 
 
 
